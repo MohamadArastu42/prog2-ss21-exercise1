@@ -2,6 +2,8 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+//Mein Github Link :) => https://github.com/MohamadArastu42/prog2-ss21-exercise1
+
 public class MyTestModelTest {
     @Test
     void checkPasswordTooShort() {
